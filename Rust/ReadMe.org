@@ -1,0 +1,9 @@
+#+TITLE:Programming RUST
+
+* Introduction
+
+This project is used in order for me to learn the RUST language. I start this endevour on Sunday 23 January 2022, by following the RUST [[https://doc.rust-lang.org/stable/book/ch01-03-hello-cargo.html][documentation]].
+
+* Project 1: Hello World
+
+The traditional Hello World program. 
