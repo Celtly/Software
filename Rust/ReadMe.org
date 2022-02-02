@@ -6,4 +6,20 @@ This project is used in order for me to learn the RUST language. I start this en
 
 * Project 1: Hello World
 
-The traditional Hello World program. 
+The traditional Hello World program.
+
+* Project 2: Cargo
+
+We use cargo to keep track of the dependencies. We can run
+#+begin_src shell
+cargo build 
+#+end_src
+to build a project,
+#+begin_src shell
+cargo run
+#+end_src
+to build and run a project and
+#+begin_src shell
+cargo check 
+#+end_src
+to build a program without building it. Instead of saving the executable in the same directory, Cargo stores it in the =/target/debug= directory. 
